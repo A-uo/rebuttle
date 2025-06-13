@@ -3,7 +3,7 @@
 
 ***\*Supplementary\**** ***\*Figure 1\****: Tuning of the capsule network’s key hyperparameter σ —which determines the width of the Gaussian kernel in the routing-by-agreement procedure and thus controls how sharply capsules couple their outputs.
 
-![img](file:///C:\Users\DELL\AppData\Local\Temp\ksohtml29328\wps15.jpg) 
+![img](2.png) 
 
 ***\*Supplementary\**** ***\*Figure\**** ***\*2\****: Identification of cell-type-specific marker genes across distinct populations.
 **Top:** Bubble plot showing, for each selected marker gene and cell type, the average normalized expression (color intensity) and the percentage of cells expressing the gene (bubble size).
