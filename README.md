@@ -1,5 +1,5 @@
 # rebuttle experiments
-![img](file:1.png)
+![img](1.png)
 
 ***\*Supplementary\**** ***\*Figure 1\****: Tuning of the capsule network’s key hyperparameter σ —which determines the width of the Gaussian kernel in the routing-by-agreement procedure and thus controls how sharply capsules couple their outputs.
 
